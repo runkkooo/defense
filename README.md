@@ -14,13 +14,13 @@ C++练习 https://github.com/applenob/Cpp_Primer_Practice
 
 python
 
-https://github.com/ethan-funny/explore-python
+python练习 https://github.com/ethan-funny/explore-python
 
-https://link.zhihu.com/?target=https%3A//github.com/grantjenks/free-python-games
+小游戏 https://github.com/grantjenks/free-python-games
 
-https://github.com/taojy123/KeymouseGo
+按键精灵https://github.com/taojy123/KeymouseGo
 
-https://github.com/reorx/httpstat
+http发送器 https://github.com/reorx/httpstat
 
 https://github.com/facert/awesome-spider
 
