@@ -22,7 +22,7 @@ python练习 https://github.com/ethan-funny/explore-python
 
 http发送器 https://github.com/reorx/httpstat
 
-https://github.com/facert/awesome-spider
+爬虫程序 https://github.com/facert/awesome-spider
 
 音乐下载器 https://link.zhihu.com/?target=https%3A//github.com/CharlesPikachu/musicdl
 
