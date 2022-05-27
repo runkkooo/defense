@@ -12,7 +12,7 @@ C++练习 https://github.com/applenob/Cpp_Primer_Practice
 
 轻量级web服务器 https://github.com/qinguoyi/TinyWebServer
 
-python
+python项目
 
 python练习 https://github.com/ethan-funny/explore-python
 
@@ -27,3 +27,7 @@ http发送器 https://github.com/reorx/httpstat
 音乐下载器 https://link.zhihu.com/?target=https%3A//github.com/CharlesPikachu/musicdl
 
 音乐下载器文档说明https://link.zhihu.com/?target=https%3A//musicdl.readthedocs.io/
+
+AI游戏 https://github.com/CharlesPikachu/AIGames
+
+其他工具 https://github.com/CharlesPikachu/pytools
