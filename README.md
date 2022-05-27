@@ -14,3 +14,7 @@ https://github.com/Light-City/CPlusPlusThings
 https://link.zhihu.com/?target=https%3A//github.com/zhongyang219/TrafficMonitor
 
 https://github.com/qinguoyi/TinyWebServer
+
+python
+
+https://github.com/ethan-funny/explore-python
