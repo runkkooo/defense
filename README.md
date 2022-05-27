@@ -2,15 +2,15 @@
 安全工具
 https://github.com/guchangan1/All-Defense-Tool.git
 
-C++
+C++项目
 
 微信聊天机器人https://github.com/TonyChen56/WeChatRobot
 
 C++练习 https://github.com/applenob/Cpp_Primer_Practice
 
-https://link.zhihu.com/?target=https%3A//github.com/zhongyang219/TrafficMonitor
+电脑性能计算器 https://github.com/zhongyang219/TrafficMonitor
 
-https://github.com/qinguoyi/TinyWebServer
+轻量级web服务器 https://github.com/qinguoyi/TinyWebServer
 
 python
 
