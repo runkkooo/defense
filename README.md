@@ -16,3 +16,11 @@ https://github.com/qinguoyi/TinyWebServer
 python
 
 https://github.com/ethan-funny/explore-python
+
+https://link.zhihu.com/?target=https%3A//github.com/grantjenks/free-python-games
+
+https://github.com/taojy123/KeymouseGo
+
+https://github.com/reorx/httpstat
+
+https://github.com/facert/awesome-spider
