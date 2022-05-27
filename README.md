@@ -9,8 +9,6 @@ https://github.com/TonyChen56/WeChatRobot
 
 https://github.com/applenob/Cpp_Primer_Practice
 
-https://github.com/Light-City/CPlusPlusThings
-
 https://link.zhihu.com/?target=https%3A//github.com/zhongyang219/TrafficMonitor
 
 https://github.com/qinguoyi/TinyWebServer
